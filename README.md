@@ -1,4 +1,12 @@
-# Install MicroKube For version peatio 2.3.11 in Ubuntu 18.04 Documented by poseidon ~ telegram id: @pos3idon (Demo https://coincooper.com ) soon update document for ubuntu 20.04.
+# Install MicroKube For version peatio 2.3.11 in Ubuntu 18.04 Documented by poseidon ~ telegram id: @pos3idon (Demo https://demo.coincooper.com ) soon update document for ubuntu 22.04.
+one click installation link
+
+```
+bash <(curl -Ls https://gist.githubusercontent.com/poseidon-j/a0eff94a1624b143fd95dd5142f24f46/raw/5944a137edd417ed05818c43aedcd49c6254774d/install.sh)
+
+```
+
+
 
 ## Step 1: Install Docker
 
